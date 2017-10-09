@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb86d01e5922421eaa8f427e5d71c874",
+    "_text_": "Register",
+    "_top_": {
+        "type": "string",
+        "value": "237dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s99b1d6b833a41a2bf741ac673d55c8d",
+    "id": "RegisterButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e5eede9b9e004ef580e6ecf08380ab3f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ae01182fcb724af38fd6f994bed23c29",
+    "parent": "RegisterFlex",
+    "pf": "ProfileForm",
+    "wType": "Button",
+    "zindex": 1
+}

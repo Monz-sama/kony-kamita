@@ -1,0 +1,29 @@
+{
+    "AS_Button_f3a0c053de64454ca9f0db47e51889f1": {
+        "id": "AS_Button_f3a0c053de64454ca9f0db47e51889f1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProfileForm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "gef4e63762db4ced965d12fdad31fc1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a70463afdcf2446b8d8e9b1fe1aa9958",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "HomeForm",
+            "formKUID": "d58b1fe581104102a39020266eaa7f46",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}
