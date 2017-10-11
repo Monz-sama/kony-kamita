@@ -22,9 +22,11 @@
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
+        "needAppMenu": true,
         "psp": {
             "windowSoftInputMode": 2
-        }
+        },
+        "titleBar": false
     },
     "canUpdateUI": true,
     "children": [
@@ -42,20 +44,27 @@
         "needAppMenu": false
     },
     "device": "GalaxyS5",
+    "disabledSkins": {
+        "menuFocusSkin": "sf8a189039ca42908616f673a5b5327b"
+    },
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "footer": "HomeForm_footer",
+    "footeroverlap": false,
     "header": "HomeForm_header",
+    "headeroverlap": false,
     "id": "HomeForm",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
+    "invokedProperty": "footers",
     "ipad": {
         "psp": {
             "inputAccessoryViewType": 4
         }
     },
     "iphone": {
+        "needAppMenu": true,
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -77,6 +86,7 @@
     "isvisible": true,
     "kuid": "d58b1fe581104102a39020266eaa7f46",
     "layouttype": 2,
+    "menunormalskin": "s681c300685f40579112a9eafd4520bd",
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
@@ -87,8 +97,23 @@
     "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": true
+    },
+    "spabb": {
+        "needAppMenu": true
+    },
+    "spaip": {
+        "needAppMenu": true
+    },
+    "spawinphone8": {
+        "needAppMenu": true
+    },
     "titleBarSkin": "s6ac988f52f240ef88905be2facfc96f",
     "titlebar": true,
     "type": 3,
-    "wType": "Form"
+    "wType": "Form",
+    "winphone8": {
+        "needAppMenu": true
+    }
 }

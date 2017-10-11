@@ -7,16 +7,6 @@
             "name": "eventobject"
         }],
         "language": "js",
-        "actions": [{
-            "id": "INVOKE_FUNCTION___b1c507fe41d44036be5f6fd4f6aba113",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "validateUser",
-            "display": "validateUser",
-            "inputparams": [],
-            "parentId": null,
-            "callbackType": null,
-            "disabled": null,
-            "source": "module"
-        }]
+        "actions": []
     }
 }

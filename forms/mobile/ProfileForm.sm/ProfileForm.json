@@ -74,6 +74,8 @@
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "android",
+    "postshow": "AS_Form_g4324e763c9c44b98b0f8ff271d9d858",
+    "preshow": "AS_Form_jb2c15da773d4b15a71f5cc440e82b4b",
     "prevDevice": "GalaxyNote",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
